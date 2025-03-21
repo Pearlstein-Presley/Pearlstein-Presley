@@ -208,7 +208,7 @@ Coding:
 <!-- Header -->
 <header>
     <img  src="pearlsteinPearsly.jpeg" width="120" height="120">
-    <h1>Dhanush S</h1>
+    <h1>Pearlstein Presley P</h1>
     <h2>Student at Patrician College</h2>
     <nav>
         <a href="#about">About</a>
